@@ -1,0 +1,3 @@
+# 0x00-python_variable_annotations
+
+Welcome to "0x00-python_variable_annotations"! This repository is dedicated to exploring Python variable annotations, a feature introduced in Python 3.6 that allows developers to add type hints to variables, function parameters, and return values. By annotating variables with types, developers can enhance code readability, enable static type checking, and improve documentation. In this repository, you'll find examples, tutorials, and best practices for using variable annotations effectively in Python, empowering you to write more robust and maintainable code.

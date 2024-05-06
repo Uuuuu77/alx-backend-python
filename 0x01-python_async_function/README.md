@@ -1,0 +1,3 @@
+# Python - Async
+
+Welcome to the Python - Async repository! This repository is dedicated to exploring asynchronous programming in Python using the `async` and `await` syntax introduced in Python 3.7. Asynchronous programming allows for non-blocking execution of code, enabling tasks to run concurrently and improving performance for I/O-bound operations. In this repository, you'll find examples projects, and best practices for leveraging asynchronous programming in Python using the asyncio module. Whether you're new to asynchronous programming or looking to deepen your understanding, join us on this journey to unlock the power of async in Python!

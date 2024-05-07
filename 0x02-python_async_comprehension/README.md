@@ -1,0 +1,3 @@
+# Async Comprehension
+
+Welcome to the Async Comprehension repository! Async comprehensions are a feature introduced in Python 3.6 that allow you to create asynchronous sequences in a concise and readable way. Similar to list comprehensions, async comprehensions enable you to apply an expression to each item in an iterable asynchronously, producing a new asynchronous sequence. In this repository, you'll find examples mini-projects, and best practices for using async comprehensions effectively in Python, empowering you to write more expressive and efficient asynchronous code. Join us on this journey to unlock the power of async comprehensions and enhance your asynchronous programming skills!
